@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/tonyx/projects/mj2/main.cpp" "/home/tonyx/projects/mj2/build/CMakeFiles/mj2.dir/main.cpp.o"
+  "/home/tony/MJ/main.cpp" "/home/tony/MJ/build/CMakeFiles/mj2.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

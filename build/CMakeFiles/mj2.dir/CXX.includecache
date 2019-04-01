@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/tonyx/projects/mj2/json.hpp
+/home/tony/MJ/json.hpp
 algorithm
 -
 array
@@ -62,11 +62,11 @@ utility
 vector
 -
 
-/home/tonyx/projects/mj2/main.cpp
+/home/tony/MJ/main.cpp
 uWS/uWS.h
 -
 iostream
 -
 json.hpp
-/home/tonyx/projects/mj2/json.hpp
+/home/tony/MJ/json.hpp
 

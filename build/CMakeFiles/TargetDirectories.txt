@@ -1,7 +1,7 @@
-/home/tonyx/projects/mj2/build/CMakeFiles/install/strip.dir
-/home/tonyx/projects/mj2/build/CMakeFiles/edit_cache.dir
-/home/tonyx/projects/mj2/build/CMakeFiles/mj2.dir
-/home/tonyx/projects/mj2/build/CMakeFiles/rebuild_cache.dir
-/home/tonyx/projects/mj2/build/CMakeFiles/list_install_components.dir
-/home/tonyx/projects/mj2/build/CMakeFiles/install/local.dir
-/home/tonyx/projects/mj2/build/CMakeFiles/install.dir
+/home/tony/MJ/build/CMakeFiles/install/strip.dir
+/home/tony/MJ/build/CMakeFiles/install/local.dir
+/home/tony/MJ/build/CMakeFiles/edit_cache.dir
+/home/tony/MJ/build/CMakeFiles/mj2.dir
+/home/tony/MJ/build/CMakeFiles/rebuild_cache.dir
+/home/tony/MJ/build/CMakeFiles/install.dir
+/home/tony/MJ/build/CMakeFiles/list_install_components.dir
